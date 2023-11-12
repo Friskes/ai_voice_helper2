@@ -1,0 +1,15 @@
+django
+ipython
+torch
+scikit-learn
+speechbrain
+vosk
+g4f
+gTTS
+torchaudio
+soundfile
+sounddevice
+sox
+python-dotenv
+librosa
+SpeechRecognition
